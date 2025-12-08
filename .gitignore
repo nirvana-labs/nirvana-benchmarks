@@ -1,0 +1,16 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+dist
+*.zip
+logs
+*.srl
+*.crt
+*.csr
+*.key
+*.pub
+*.pem
+*.env
+.DS_Store
+.idea
